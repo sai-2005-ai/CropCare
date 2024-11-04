@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  padding: 50px;
+}
+
+h2 {
+  color: #2e8b57;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input {
+  width: 200px;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
